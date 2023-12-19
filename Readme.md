@@ -1,5 +1,5 @@
 ## About:
-This is a bach file that helps to shutdown, restart, hibernate, or even sign out at any time in the upcoming 24 hours.
+This is a batch file that helps to shutdown, restart, hibernate, or even sign out at any time in the upcoming 24 hours.
 
 If you are running a program and you are going to sleep or busy but you want to shutdown the computer, this file will do it for you.
 
