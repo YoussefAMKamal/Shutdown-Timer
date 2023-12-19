@@ -7,5 +7,5 @@ If you are runing a program and you are going to sleep or busy but you want to s
 Just download and open then follow the instructions.
 
 ## Note:
-You must live the app running to work.
+You must live the app running for it to work.
 It does not differ if you minimized it or not.
