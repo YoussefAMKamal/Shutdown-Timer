@@ -8,4 +8,5 @@ Just open then follow the instructions.
 
 > [!NOTE]
 > You must leave the app running for it to work.
+>
 > It does not matter if you minimize it or not.
