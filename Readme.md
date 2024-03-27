@@ -6,6 +6,6 @@ If you are running a program and you are going to sleep or busy but you want to 
 ## How to Use:
 Just open then follow the instructions.
 
-## Note:
-You must leave the app running for it to work.
-It does not matter if you minimize it or not.
+> [!NOTE]
+> You must leave the app running for it to work.
+> It does not matter if you minimize it or not.
